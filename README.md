@@ -1,1 +1,1 @@
-# FE-Mentor---News-homepage-solution
+# FE-Mentor-News-homepage-solution
